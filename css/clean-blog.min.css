@@ -1,3 +1,12 @@
+#wpic {padding-left: 40px; float:left}
+
+#wdesc {float:left; padding: 40px}
+
+#wtext {
+  padding-left: 50px;
+  clear: both;
+  text-align:left;
+}
 
 .photos .column {
   float:left;
@@ -97,7 +106,7 @@ text-transform:uppercase;
 }
 
 header.masthead {
-margin-bottom:60px;
+margin-bottom:20px;
 background:no-repeat center center;
 background-color:#868e96;
 background-attachment:scroll;
@@ -132,7 +141,7 @@ margin-top:0;
 }
 
 header.masthead .page-heading .subheading,header.masthead .site-heading .subheading {
-font-size:24px;
+font-size:18px;
 font-weight:300;
 line-height:1.1;
 display:block;
